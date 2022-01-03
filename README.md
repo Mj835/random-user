@@ -6,6 +6,6 @@ This is React project for the first just you need to clone the repo and then do 
 
 it work with both npm and yarn commands.
 
-You can view this on localhost:3000
+You can view it on localhost:3000
 
 So just clone and look into it 😊
